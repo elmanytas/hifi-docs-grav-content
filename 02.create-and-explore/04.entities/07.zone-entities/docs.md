@@ -116,8 +116,7 @@ In the previous example, the zone entity's boundaries were a cube. You can view 
 
 This is the default shape. However, other shapes are possible. To change a zone entity's shape:
 1. Select the zone entity and in the **Properties** tab, scroll down to the Model properties.
-2. Set the **Collision shape type** property to the shape you want to use:
-   ![](zone-entity-shape.png)
+2. Set the **Collision shape type** property to the shape you want to use.
    There are four shape types to chose from:
    - None: Will go to the default shape. (Box at the moment)
    - Box: The zone entity's shape is the same than its bounding box.
