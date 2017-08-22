@@ -12,12 +12,12 @@ We want to upload a model of water fountain to Marketplace. We have the .fbx fil
 
 - In Interface, pull up your tablet and go to **Create**. ![](scr4.PNG)
 - Click ''Open this Domain's Asset Browser Now". The Asset Browser window will open and show you the list of assets in the current domain. ![](scr5.PNG)
-- Click the "Choose File" button. 
+- Click the "Choose File" button.
 - Select your .fbx file and click 'Open'.
 - Specify the asset path. Here, you can specify a folder for your .fbx file. We've created and named our folder 'model1'. ![](scr8.PNG)![](scr9.PNG)
 - Back in the Asset Browser window, find your folder and .fbx file and click 'Add to World'. ![](scr10.PNG)
 - In the pop-up window that opens, you can specify the collision properties of your model. Click 'Add'. ![](scr11.PNG)
-- You'll see the model appear before you. ![](scr12.PNG)
+- You'll see the model appear in front of you. ![](scr12.PNG)
 - Once you see the model, you can select the model and go to the properties in **Create**. ![](scr13.PNG)
 - You can specify the properties you want the model to have here. ![](scr14.PNG)
 - Once you're done editing the properties, go to **Edit > Export Entites**. ![](scr15.PNG)
